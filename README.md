@@ -20,7 +20,7 @@
 Для примера возьмем основную(для нашего проекта) библиотеку discord.py.
 
 ![alt tag](https://user-images.githubusercontent.com/61112124/87040699-c71ff800-c1f9-11ea-9925-fe2ae5726cb0.png)​
-Дальше нажимаем на pip instal
+Дальше нажимаем на pip install
 
 ![alt tag](https://user-images.githubusercontent.com/61112124/87041063-562d1000-c1fa-11ea-98aa-2f2ab71d8542.png)
 
