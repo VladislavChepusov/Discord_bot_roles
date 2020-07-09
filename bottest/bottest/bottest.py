@@ -36,7 +36,7 @@ async def on_member_join(member):
 CREDENTIALS_FILE = 'creds.json'
 # ID Google Sheets document (can be taken from its URL)
  #please, fill!!!! 
-spreadsheet_id = '!!!enter your here URL!!!'
+spreadsheet_id = '!!!enter your here ID!!!'
 
 # Log in and get service - an instance of access to the API
 #DO NOT TOUCH
